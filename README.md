@@ -1,24 +1,24 @@
-#Programming
-##Here, I am upload my all language program for my Practincing
-![vfindfit](Images/favicon.png)[visit site](https://www.vfindfit.com/)
+# Programming
+## Here, I am upload my all language program for my Practicing
+![vfindfit](Images/favicon.png)(https://www.vfindfit.com/)
 
-#C
+# C
 ```C
 printf("Hello world");
 ```
-#C++
+# C++
 ```C++
 cout<<"Hello world"<<
 ```
-#Python
+# Python
 ```python
 print("Hello world")
 ```
-#JavaScript
+# JavaScript
 ```javascript
 console.log("Hello world");
 ```
-#PHP
+# PHP
 ```php
 echo("Hello world");
 ```
