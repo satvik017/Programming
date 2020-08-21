@@ -9,7 +9,7 @@ printf("Hello world");
 ```
 # C++
 ```C++
-cout<<"Hello world"<<
+cout<<"Hello world";
 ```
 # Python
 ```python
