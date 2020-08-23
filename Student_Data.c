@@ -22,7 +22,7 @@ void main()
 print("Range 1 to 50\n")
 roll:
 print("Enter student roll no.\n")
-scanf("%d",&std[j].roll);
+scan(std[j].roll);
 if(std[j].roll>50||std[j].roll<=0)
 {
 print("Enter roll no. in 1 to 50\n")
@@ -50,7 +50,7 @@ else if(f=='N'||f=='n')
 assen();
 wel:
 	 printf("\nEnter password\n");
-	 scanf("%d",&b);
+	 scan(b);
 
 	 if(b!=1234)
 	{
