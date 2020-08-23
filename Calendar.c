@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
+#include<lib.h>
 int DAYS,Year=2020, Month=9, Date=6;
 char Mont[3];
 void prince(int,int,int,int,int,int,int);
